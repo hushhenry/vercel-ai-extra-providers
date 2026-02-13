@@ -1,0 +1,19 @@
+{
+  "name": "@hush/vercel-ai-extra-providers",
+  "version": "0.1.0",
+  "description": "Extra providers for Vercel AI SDK, including Google Antigravity and GitHub Copilot",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "dependencies": {
+    "ai": "^4.1.0",
+    "@ai-sdk/provider": "^1.1.0",
+    "@ai-sdk/provider-utils": "^2.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
