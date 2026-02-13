@@ -12,7 +12,8 @@
     "ai": "^4.1.0",
     "@ai-sdk/provider": "^1.1.0",
     "@ai-sdk/provider-utils": "^2.1.0",
-    "@ai-sdk/openai": "^1.1.0"
+    "@ai-sdk/openai": "^1.1.0",
+    "@ai-sdk/anthropic": "^1.1.0"
   },
   "devDependencies": {
     "typescript": "^5.7.0"
